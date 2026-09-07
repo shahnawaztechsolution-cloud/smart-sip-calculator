@@ -1,0 +1,6 @@
+{
+  "name": "Smart SIP Calculator",
+  "description": "Free online Smart SIP Calculator to estimate your mutual fund returns. Calculate SIP and Lumpsum investments accurately and plan your financial freedom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
